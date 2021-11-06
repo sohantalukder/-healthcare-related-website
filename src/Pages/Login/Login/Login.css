@@ -1,0 +1,12 @@
+.design-btn{
+    background-color: goldenrod;
+    height: 35px;
+    width: 150px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.label-item{
+    text-align: start;
+}

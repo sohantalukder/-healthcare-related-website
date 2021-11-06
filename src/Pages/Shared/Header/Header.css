@@ -1,0 +1,14 @@
+.banner-logo img{
+    width: 40px;
+}
+
+.header-area{
+    display: flex;
+}
+
+.show-name{
+color: white;
+}
+/* .container{
+    display: flex;
+} */
